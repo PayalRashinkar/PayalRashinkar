@@ -1,4 +1,5 @@
 PayalRashinkar/README.md
+
 👋 Hi, I’m Payal Rashinkar
 👀 I’m interested in Software Development, Machine Learning and Quality Assurance
 🌱 I’m a CS(AI) graduate from University of Southern California with 7 years of industry experience
