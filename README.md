@@ -2,12 +2,12 @@
 
 👋 Hi, I’m **Payal Rashinkar**  
 👀 I’m interested in **Software Development**, **Machine Learning**, and **Quality Assurance**  
-🌱 I’m a **CS(AI)** graduate from the **University of Southern California** with **7 years of industry experience**  
+🌱 I’m a **CS(ML)** graduate from the **University of Southern California** with **7 years of industry experience**  
 💞️ I’m looking to collaborate on **ML**, **SDE**, and **QA** projects  
 
 ## Contact Information:
 - 📫 **LinkedIn**: [https://www.linkedin.com/in/payalrashinkar](https://www.linkedin.com/in/payalrashinkar)
-- 📧 **Email**: [rashinka@usc.edu](mailto:rashinka@usc.edu), [payalrashinkar17@gmail.com](mailto:payalrashinkar17@gmail.com)
+- 📧 **Email**: [payalrashinkar17@gmail.com](mailto:payalrashinkar17@gmail.com)
 - 🔭 **Personal Website**: [https://payalrashinkar.github.io/Personal-Website/](https://payalrashinkar.github.io/Personal-Website/)
 
 ## Hobbies & Achievements:
