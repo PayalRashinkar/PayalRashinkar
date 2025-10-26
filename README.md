@@ -1,7 +1,7 @@
 # Payal Rashinkar
 
 👋 Hi, I’m **Payal Rashinkar**  
-👀 I’m interested in **Software Development**, **Machine Learning**, **Quality Assurance** and **data roles** 
+👀 I’m interested in **Software Development**, **Machine Learning**, **Quality Assurance**
 🌱 I’m a **Computer Science** graduate from the **University of Southern California** with **7 years of industry experience**  
 💞️ I’m looking to collaborate on **ML**, **SDE**, and **QA** projects  
 
