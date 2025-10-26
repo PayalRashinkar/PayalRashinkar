@@ -2,7 +2,7 @@
 
 👋 Hi, I’m **Payal Rashinkar**  
 🌱 I’m a **Computer Science** graduate from the **University of Southern California** with **7 years of industry experience**  
-💞️ I’m looking to collaborate on **ML**, **SDE**, and **QA** projects  
+💞️ I’m looking to collaborate on **software** projects  
 
 ## Contact Information:
 - 📫 **LinkedIn**: [https://www.linkedin.com/in/payalrashinkar](https://www.linkedin.com/in/payalrashinkar)
