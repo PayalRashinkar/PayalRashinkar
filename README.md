@@ -11,5 +11,5 @@
 - 🔭 **Personal Website**: [https://payalrashinkar.github.io/Personal-Website/](https://payalrashinkar.github.io/Personal-Website/)
 
 ## Hobbies & Achievements:
-- ♟️ Ranked among the **Top 5 Karnataka State Champions in Chess** and selected for the **National Championship**
+- ♟️ Ranked among the **Top 5 Karnataka State (In India) Champions in Chess** and selected for the **National Championship**
 
